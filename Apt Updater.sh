@@ -11,6 +11,7 @@ banner() {
                 ${ORANGE}\__ \ |_| \__ \ ||  __/ | | | | | | |_| | |_) | (_| | (_| | ||  __/ |
                 ${ORANGE}|___/\__, |___/\__\___|_| |_| |_|  \__,_| .__/ \__,_|\__,_|\__\___|_|
                 ${ORANGE}     |___/                              |_|
+                EOF
 
 read -r -p "Do you want to update your system? [y/N] " response
 if [[ "$response" =~ ^([yY][eE][sS]|[yY])$ ]]
