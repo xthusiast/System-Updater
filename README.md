@@ -1,6 +1,8 @@
-Hello!
-If you are reading this, you probably wanna download one of my system/app updater.
-I know this is a simple script, but i think that this will help some peoples.
+System updater
 
 To download, just clone the repository: 
 $ git clone https://www.github.com/Xthusiast/System-Updater
+
+To run, type in a terminal:
+$ bash /home/USER/System-Updater/update.sh
+(Replace "USER" with your username)
